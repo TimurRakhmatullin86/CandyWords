@@ -1,0 +1,27 @@
+[
+    {
+        color: CandyColor.Red,
+        words: ["Apple", "Bread", "Cheese", "Dinner", "Egg"],
+        translations: ["Яблоко", "Хлеб", "Сыр", "Ужин", "Яйцо"]
+    },
+    {
+        color: CandyColor.Green,
+        words: ["Atom", "Biology", "Chemistry", "Data", "Experiment"],
+        translations: ["Атом", "Биология", "Химия", "Данные", "Эксперимент"]
+    },
+    {
+        color: CandyColor.Blue,
+        words: ["Cat", "Dog", "Elephant", "Fish", "Giraffe"],
+        translations: ["Кошка", "Собака", "Слон", "Рыба", "Жираф"]
+    },
+    {
+        color: CandyColor.Purple,
+        words: ["Algorithm", "Browser", "Computer", "Database", "Email"],
+        translations: ["Алгоритм", "Браузер", "Компьютер", "База данных", "Электронная почта"]
+    },
+    {
+        color: CandyColor.Orange,
+        words: ["Beach", "City", "Hotel", "Journey", "Map"],
+        translations: ["Пляж", "Город", "Отель", "Путешествие", "Карта"]
+    }
+]
